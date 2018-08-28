@@ -1,9 +1,17 @@
+<<<<<<< Updated upstream
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 [CreateAssetMenu]
 public class PrefabData : ScriptableObject {
 
+=======
+﻿
+using UnityEngine;
+[CreateAssetMenu]
+public class PrefabData : ScriptableObject
+{
+>>>>>>> Stashed changes
     public GameObject Prefab;
     public Sprite SpriteImage;
     public Color SpriteColor;
