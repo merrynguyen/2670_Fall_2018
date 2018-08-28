@@ -6,11 +6,9 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
-<<<<<<< Updated upstream
           <e p="EventScript.cs" t="Include" />
-=======
+          <e p="PowerUpConfig.cs" t="Include" />
           <e p="PowerUpData.cs" t="Include" />
->>>>>>> Stashed changes
           <e p="PrefabData.cs" t="Include" />
         </e>
       </e>

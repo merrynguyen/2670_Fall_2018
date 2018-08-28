@@ -2,15 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PowerUpData : MonoBehaviour {
+[CreateAssetMenu]
 
-	// Use this for initialization
-	void Start () {
-		
-	}
+public class PowerUpData : ScriptableObject {
+
 	
-	// Update is called once per frame
-	void Update () {
-		
 	}
-}
+
