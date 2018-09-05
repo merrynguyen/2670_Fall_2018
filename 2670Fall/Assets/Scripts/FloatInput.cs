@@ -5,9 +5,13 @@ using UnityEngine;
 public class FloatInput : FloatData
 {
     public string InputType;
-    
-    void UpdateInput()
+
+    public override float Value
     {
-        
+        get { return Input.GetAxis(InputType);}
+
     }
+
+    
+    
 }

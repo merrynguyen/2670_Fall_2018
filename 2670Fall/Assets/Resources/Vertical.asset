@@ -11,5 +11,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd4ed452d2b5640cb8f192f0c3ab59f5, type: 3}
   m_Name: Vertical
   m_EditorClassIdentifier: 
-  Value: 0
-  InputType: 
+  value: 2
+  InputType: Vertical
