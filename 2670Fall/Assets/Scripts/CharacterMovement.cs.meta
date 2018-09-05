@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3ba84f558f65946189b9b26a04c3f7e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MoveX: {fileID: 11400000, guid: 6b59dd396dcfc41af94523ce5054d5c5, type: 2}
+  - MoveY: {fileID: 11400000, guid: f445c957d36e64a4e93ab805aa205c74, type: 2}
+  - MoveZ: {fileID: 11400000, guid: f445c957d36e64a4e93ab805aa205c74, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
