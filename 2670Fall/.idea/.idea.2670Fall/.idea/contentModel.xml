@@ -7,6 +7,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="CharacterMovement.cs" t="Include" />
+          <e p="DoubleJump.cs" t="Include" />
           <e p="EventBasedBehaviors" t="Include">
             <e p="DestroyEvent.cs" t="Include" />
             <e p="DisableEvent.cs" t="Include" />
@@ -15,8 +16,11 @@
             <e p="UpdateEvent.cs" t="Include" />
           </e>
           <e p="EventScript.cs" t="Include" />
+          <e p="FloatBool.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="FloatInput.cs" t="Include" />
+          <e p="MovePattern.cs" t="Include" />
+          <e p="MovePatternNotGrounded.cs" t="Include" />
           <e p="NewEvent.cs" t="Include" />
           <e p="PowerUpConfig.cs" t="Include" />
           <e p="PowerUpData.cs" t="Include" />

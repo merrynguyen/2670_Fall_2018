@@ -127,7 +127,7 @@ GameObject:
   - component: {fileID: 225227404}
   - component: {fileID: 225227399}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -144,12 +144,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ba84f558f65946189b9b26a04c3f7e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 6
-  jumpSpeed: 10
-  gravity: 20
-  MoveX: {fileID: 11400000, guid: 2f3094c6fb8c04fef8f927d7a903474c, type: 2}
-  MoveY: {fileID: 11400000, guid: 6b59dd396dcfc41af94523ce5054d5c5, type: 2}
-  MoveZ: {fileID: 11400000, guid: 026dcb112dbc04717b4187c377c6cfa3, type: 2}
+  Pattern: {fileID: 11400000, guid: e563464a3654f4223809268d85f714fb, type: 2}
 --- !u!65 &225227400
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -177,7 +172,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 33926ff32490b43c5bca2695d61ea73d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -211,7 +206,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 225227398}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.05896278, y: 0.81, z: 0.0113891475}
+  m_LocalPosition: {x: -0.05896278, y: 2.59, z: 0.0113891475}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1678446204}
@@ -313,7 +308,7 @@ GameObject:
   - component: {fileID: 1424882267}
   - component: {fileID: 1424882266}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
