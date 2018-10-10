@@ -23,7 +23,17 @@ public class CharacterMovement : MonoBehaviour
     {
         Pattern.Invoke(controller, transform);
     }
+
+    void OnTriggerEnter
+        (Collider other)
+    {
+        if (other.gameObject.CompareTag("PickUp"))
+        {
+            other.gameObject.SetActive(false);
+        }
+    }
 }
+
       
       
 
