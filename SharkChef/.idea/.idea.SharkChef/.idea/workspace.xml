@@ -32,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/SpawnItem.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="24" selection-end-column="38" />
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="24" selection-end-column="38" />
               <folding>
                 <marker date="1540946347638" expanded="false" signature="6:153" ph="..." />
                 <marker date="1540946347638" expanded="true" signature="193:964" ph="{...}" />
@@ -279,11 +279,12 @@
       <workItem from="1543258937406" duration="795000" />
       <workItem from="1543263080813" duration="489000" />
       <workItem from="1543265242181" duration="163000" />
+      <workItem from="1543265634623" duration="234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17254000" />
+    <option name="totallyTimeSpent" value="17488000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -296,7 +297,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="19" y="83" width="1206" height="771" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -305,7 +305,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15721649" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15979381" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -909,7 +909,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/SpawnItem.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="24" selection-end-column="38" />
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="24" selection-end-column="38" />
           <folding>
             <marker date="1540946347638" expanded="false" signature="6:153" ph="..." />
             <marker date="1540946347638" expanded="true" signature="193:964" ph="{...}" />
