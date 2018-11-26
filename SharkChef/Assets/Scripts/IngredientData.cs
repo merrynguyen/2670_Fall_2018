@@ -5,5 +5,6 @@ using UnityEngine;
 public class IngredientData : MonoBehaviour
 {
     public Ingredient IngredientObj;
+    
 
 }

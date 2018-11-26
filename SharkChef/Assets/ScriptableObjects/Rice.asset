@@ -11,6 +11,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70243bacb76374bc197183d40b317dc5, type: 3}
   m_Name: Rice
   m_EditorClassIdentifier: 
-  ObjName: Rice
+  ObjName: Bread
   type: 0
-  IngredientSprite: {fileID: 0}
+  IngredientSprite: {fileID: 21300000, guid: 7f72072ebedb246eb8cc012f8a56c54d, type: 3}
