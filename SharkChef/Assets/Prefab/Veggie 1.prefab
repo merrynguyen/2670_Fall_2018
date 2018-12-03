@@ -26,8 +26,8 @@ GameObject:
   - component: {fileID: 114301300570132094}
   - component: {fileID: 212843092397124414}
   m_Layer: 0
-  m_Name: Veggie
-  m_TagString: food
+  m_Name: Coin
+  m_TagString: Coin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -95,7 +95,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ade743c79c65f4ac6a07dac6ce9229d1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  IngredientObj: {fileID: 11400000, guid: f0002b086ccf7461ab1c1e3a3b597833, type: 2}
+  IngredientObj: {fileID: 0}
 --- !u!114 &114509496501319056
 MonoBehaviour:
   m_ObjectHideFlags: 1
