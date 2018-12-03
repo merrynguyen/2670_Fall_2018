@@ -28,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpawnItem.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SpawnItem.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/SpawnItem.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="24" selection-end-column="38" />
+            <state relative-caret-position="450">
+              <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
               <folding>
                 <marker date="1540946347638" expanded="false" signature="6:153" ph="..." />
                 <marker date="1540946347638" expanded="true" signature="193:964" ph="{...}" />
@@ -63,15 +63,17 @@
       <file leaf-file-name="CharacterMovement.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="58" column="40" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+            <state relative-caret-position="440">
+              <caret line="43" column="29" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="29" />
               <folding>
-                <marker date="1540945750063" expanded="false" signature="6:92" ph="..." />
-                <marker date="1540945750063" expanded="true" signature="272:342" ph="{...}" />
-                <marker date="1540945750063" expanded="true" signature="361:420" ph="{...}" />
-                <marker date="1540945750063" expanded="true" signature="461:1492" ph="{...}" />
-                <marker date="1540945750063" expanded="true" signature="476:619" ph="/* if (other.gameObject.CompareTag(&quot;food&quot;)) ... */" />
-                <marker date="1540945750063" expanded="true" signature="765:1425" ph="{...}" />
+                <marker date="1543369767691" expanded="false" signature="6:92" ph="..." />
+                <marker date="1543369767691" expanded="true" signature="140:1874" ph="{...}" />
+                <marker date="1543369767691" expanded="true" signature="276:346" ph="{...}" />
+                <marker date="1543369767691" expanded="true" signature="370:608" ph="{...}" />
+                <marker date="1543369767691" expanded="true" signature="462:602" ph="{...}" />
+                <marker date="1543369767691" expanded="true" signature="649:1864" ph="{...}" />
+                <marker date="1543369767691" expanded="true" signature="664:807" ph="/* if (other.gameObject.CompareTag(&quot;food&quot;)) ... */" />
+                <marker date="1543369767691" expanded="true" signature="1137:1797" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -80,13 +82,14 @@
       <file leaf-file-name="RecipeCard.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/RecipeCard.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            <state relative-caret-position="330">
+              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
               <folding>
-                <marker date="1540945168348" expanded="false" signature="6:116" ph="..." />
-                <marker date="1540945168348" expanded="true" signature="177:516" ph="{...}" />
-                <marker date="1540945168348" expanded="true" signature="284:512" ph="{...}" />
-                <marker date="1540945168348" expanded="true" signature="326:496" ph="{...}" />
+                <marker date="1543372022486" expanded="false" signature="6:116" ph="..." />
+                <marker date="1543372022486" expanded="true" signature="177:593" ph="{...}" />
+                <marker date="1543372022486" expanded="true" signature="284:516" ph="{...}" />
+                <marker date="1543372022486" expanded="true" signature="326:496" ph="{...}" />
+                <marker date="1543372022486" expanded="true" signature="548:584" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -105,15 +108,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RecipeCardData.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RecipeCardData.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/RecipeCardData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            <state relative-caret-position="240">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
               <folding>
-                <marker date="1540944932636" expanded="false" signature="6:78" ph="..." />
-                <marker date="1540944932636" expanded="true" signature="123:249" ph="{...}" />
-                <marker date="1540944932636" expanded="true" signature="206:243" ph="{...}" />
+                <marker date="1543372331098" expanded="true" signature="6:100" ph="..." />
+                <marker date="1543372331098" expanded="true" signature="145:610" ph="{...}" />
+                <marker date="1543372331098" expanded="true" signature="309:388" ph="{...}" />
+                <marker date="1543372331098" expanded="true" signature="412:604" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -168,18 +172,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ingredient.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RecipeCard.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RecipeCardData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ingredient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RecipeCard.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RecipeCardData.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatInput.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pantry.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpawnItem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IngredientData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pantry.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpawnItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IngredientData.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovePattern.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatBool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovePattern.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatBool.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -192,20 +196,20 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/NameID.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Ingredient.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RecipeCardData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RecipeCard.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pantry.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SpawnItem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IngredientData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RecipeCard.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RecipeCardData.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="19" />
-    <option name="y" value="83" />
-    <option name="width" value="1206" />
-    <option name="height" value="771" />
+    <option name="x" value="97" />
+    <option name="y" value="68" />
+    <option name="width" value="1440" />
+    <option name="height" value="832" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -213,6 +217,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
@@ -229,7 +234,6 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -280,11 +284,12 @@
       <workItem from="1543263080813" duration="489000" />
       <workItem from="1543265242181" duration="163000" />
       <workItem from="1543265634623" duration="234000" />
+      <workItem from="1543368536929" duration="2480000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17488000" />
+    <option name="totallyTimeSpent" value="19968000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -296,7 +301,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="19" y="83" width="1206" height="771" extended-state="0" />
+    <frame x="97" y="68" width="1440" height="832" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -305,7 +311,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15979381" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13519314" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -379,12 +385,14 @@
         <state relative-caret-position="285">
           <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
           <folding>
-            <marker date="1540945750063" expanded="false" signature="6:92" ph="..." />
-            <marker date="1540945750063" expanded="true" signature="272:342" ph="{...}" />
-            <marker date="1540945750063" expanded="true" signature="361:420" ph="{...}" />
-            <marker date="1540945750063" expanded="true" signature="461:1492" ph="{...}" />
-            <marker date="1540945750063" expanded="true" signature="476:619" ph="/* if (other.gameObject.CompareTag(&quot;food&quot;)) ... */" />
-            <marker date="1540945750063" expanded="true" signature="765:1425" ph="{...}" />
+            <marker date="1543369767691" expanded="false" signature="6:92" ph="..." />
+            <marker date="1543369767691" expanded="true" signature="140:1874" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="276:346" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="370:608" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="462:602" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="649:1864" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="664:807" ph="/* if (other.gameObject.CompareTag(&quot;food&quot;)) ... */" />
+            <marker date="1543369767691" expanded="true" signature="1137:1797" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -464,12 +472,14 @@
         <state relative-caret-position="285">
           <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
           <folding>
-            <marker date="1540945750063" expanded="false" signature="6:92" ph="..." />
-            <marker date="1540945750063" expanded="true" signature="272:342" ph="{...}" />
-            <marker date="1540945750063" expanded="true" signature="361:420" ph="{...}" />
-            <marker date="1540945750063" expanded="true" signature="461:1492" ph="{...}" />
-            <marker date="1540945750063" expanded="true" signature="476:619" ph="/* if (other.gameObject.CompareTag(&quot;food&quot;)) ... */" />
-            <marker date="1540945750063" expanded="true" signature="765:1425" ph="{...}" />
+            <marker date="1543369767691" expanded="false" signature="6:92" ph="..." />
+            <marker date="1543369767691" expanded="true" signature="140:1874" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="276:346" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="370:608" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="462:602" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="649:1864" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="664:807" ph="/* if (other.gameObject.CompareTag(&quot;food&quot;)) ... */" />
+            <marker date="1543369767691" expanded="true" signature="1137:1797" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -549,12 +559,14 @@
         <state relative-caret-position="435">
           <caret line="29" column="6" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
           <folding>
-            <marker date="1540945750063" expanded="false" signature="6:92" ph="..." />
-            <marker date="1540945750063" expanded="true" signature="272:342" ph="{...}" />
-            <marker date="1540945750063" expanded="true" signature="361:420" ph="{...}" />
-            <marker date="1540945750063" expanded="true" signature="461:1492" ph="{...}" />
-            <marker date="1540945750063" expanded="true" signature="476:619" ph="/* if (other.gameObject.CompareTag(&quot;food&quot;)) ... */" />
-            <marker date="1540945750063" expanded="true" signature="765:1425" ph="{...}" />
+            <marker date="1543369767691" expanded="false" signature="6:92" ph="..." />
+            <marker date="1543369767691" expanded="true" signature="140:1874" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="276:346" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="370:608" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="462:602" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="649:1864" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="664:807" ph="/* if (other.gameObject.CompareTag(&quot;food&quot;)) ... */" />
+            <marker date="1543369767691" expanded="true" signature="1137:1797" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -586,12 +598,14 @@
         <state relative-caret-position="30">
           <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
           <folding>
-            <marker date="1540945750063" expanded="false" signature="6:92" ph="..." />
-            <marker date="1540945750063" expanded="true" signature="272:342" ph="{...}" />
-            <marker date="1540945750063" expanded="true" signature="361:420" ph="{...}" />
-            <marker date="1540945750063" expanded="true" signature="461:1492" ph="{...}" />
-            <marker date="1540945750063" expanded="true" signature="476:619" ph="/* if (other.gameObject.CompareTag(&quot;food&quot;)) ... */" />
-            <marker date="1540945750063" expanded="true" signature="765:1425" ph="{...}" />
+            <marker date="1543369767691" expanded="false" signature="6:92" ph="..." />
+            <marker date="1543369767691" expanded="true" signature="140:1874" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="276:346" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="370:608" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="462:602" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="649:1864" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="664:807" ph="/* if (other.gameObject.CompareTag(&quot;food&quot;)) ... */" />
+            <marker date="1543369767691" expanded="true" signature="1137:1797" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -692,12 +706,14 @@
         <state relative-caret-position="30">
           <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
           <folding>
-            <marker date="1540945750063" expanded="false" signature="6:92" ph="..." />
-            <marker date="1540945750063" expanded="true" signature="272:342" ph="{...}" />
-            <marker date="1540945750063" expanded="true" signature="361:420" ph="{...}" />
-            <marker date="1540945750063" expanded="true" signature="461:1492" ph="{...}" />
-            <marker date="1540945750063" expanded="true" signature="476:619" ph="/* if (other.gameObject.CompareTag(&quot;food&quot;)) ... */" />
-            <marker date="1540945750063" expanded="true" signature="765:1425" ph="{...}" />
+            <marker date="1543369767691" expanded="false" signature="6:92" ph="..." />
+            <marker date="1543369767691" expanded="true" signature="140:1874" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="276:346" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="370:608" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="462:602" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="649:1864" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="664:807" ph="/* if (other.gameObject.CompareTag(&quot;food&quot;)) ... */" />
+            <marker date="1543369767691" expanded="true" signature="1137:1797" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -840,46 +856,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RecipeCardData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <marker date="1540944932636" expanded="false" signature="6:78" ph="..." />
-            <marker date="1540944932636" expanded="true" signature="123:249" ph="{...}" />
-            <marker date="1540944932636" expanded="true" signature="206:243" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RecipeCard.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding>
-            <marker date="1540945168348" expanded="false" signature="6:116" ph="..." />
-            <marker date="1540945168348" expanded="true" signature="177:516" ph="{...}" />
-            <marker date="1540945168348" expanded="true" signature="284:512" ph="{...}" />
-            <marker date="1540945168348" expanded="true" signature="326:496" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="58" column="40" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
-          <folding>
-            <marker date="1540945750063" expanded="false" signature="6:92" ph="..." />
-            <marker date="1540945750063" expanded="true" signature="272:342" ph="{...}" />
-            <marker date="1540945750063" expanded="true" signature="361:420" ph="{...}" />
-            <marker date="1540945750063" expanded="true" signature="461:1492" ph="{...}" />
-            <marker date="1540945750063" expanded="true" signature="476:619" ph="/* if (other.gameObject.CompareTag(&quot;food&quot;)) ... */" />
-            <marker date="1540945750063" expanded="true" signature="765:1425" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovePattern.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -908,8 +884,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/SpawnItem.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="24" selection-end-column="38" />
+        <state relative-caret-position="450">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
           <folding>
             <marker date="1540946347638" expanded="false" signature="6:153" ph="..." />
             <marker date="1540946347638" expanded="true" signature="193:964" ph="{...}" />
@@ -918,6 +894,50 @@
             <marker date="1540946347638" expanded="true" signature="517:962" ph="{...}" />
             <marker date="1540946347638" expanded="true" signature="672:773" ph="{...}" />
             <marker date="1540946347638" expanded="true" signature="780:956" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="29" />
+          <folding>
+            <marker date="1543369767691" expanded="false" signature="6:92" ph="..." />
+            <marker date="1543369767691" expanded="true" signature="140:1874" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="276:346" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="370:608" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="462:602" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="649:1864" ph="{...}" />
+            <marker date="1543369767691" expanded="true" signature="664:807" ph="/* if (other.gameObject.CompareTag(&quot;food&quot;)) ... */" />
+            <marker date="1543369767691" expanded="true" signature="1137:1797" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RecipeCard.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <marker date="1543372022486" expanded="false" signature="6:116" ph="..." />
+            <marker date="1543372022486" expanded="true" signature="177:593" ph="{...}" />
+            <marker date="1543372022486" expanded="true" signature="284:516" ph="{...}" />
+            <marker date="1543372022486" expanded="true" signature="326:496" ph="{...}" />
+            <marker date="1543372022486" expanded="true" signature="548:584" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RecipeCardData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <marker date="1543372331098" expanded="true" signature="6:100" ph="..." />
+            <marker date="1543372331098" expanded="true" signature="145:610" ph="{...}" />
+            <marker date="1543372331098" expanded="true" signature="309:388" ph="{...}" />
+            <marker date="1543372331098" expanded="true" signature="412:604" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -10,6 +10,7 @@ public class CharacterMovement : MonoBehaviour
     private CharacterController controller;
     public MovePattern Pattern;
     public Pantry pantry;
+   
 
     private void Start()
     {
@@ -17,8 +18,16 @@ public class CharacterMovement : MonoBehaviour
     }
 
     void Update()
+    
     {
         Pattern.Invoke(controller, transform);
+        if (transform.position.z != 0)
+        {
+            
+            Vector3 pos = transform.position;
+            pos.z = 0;
+            transform.position = pos;
+        }
     }
 
     void OnTriggerEnter(Collider other)
@@ -32,7 +41,9 @@ public class CharacterMovement : MonoBehaviour
 
 
 
-
+        print(other.gameObject);
+        print(other.gameObject.GetComponent<IngredientData>());
+        print((int)other.gameObject.GetComponent<IngredientData>().IngredientObj.type);
         int ingredientype = (int)other.gameObject.GetComponent<IngredientData>().IngredientObj.type;
 
         switch (ingredientype)

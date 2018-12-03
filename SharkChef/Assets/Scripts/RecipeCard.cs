@@ -16,10 +16,16 @@ public class RecipeCard : ScriptableObject
                     Recipe.Add(IngList[IngNum]);
             Debug.Log(Recipe[i].type);
         }
-
+    
        
 
     }
+
+    public void DeleteRecipe()
+    {
+        Recipe.Clear();
+    }
+    
 
 
 }
