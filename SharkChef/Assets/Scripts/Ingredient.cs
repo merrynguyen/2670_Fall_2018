@@ -9,7 +9,7 @@ public class Ingredient : ScriptableObject
 
     public enum Type
     {
-        Carb, Meat, Veggie, Garbage
+        Carb, Meat, Veggie, Garbage, Coin
     }
 
     public Type type;

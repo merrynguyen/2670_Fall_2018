@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4a62fecdf1014127b34f0f09aa76297, type: 3}
+  m_Name: Store
+  m_EditorClassIdentifier: 
+  Sunglasses: {fileID: 1545351427796262, guid: d0342dd781d174ad0bd702679c653ace, type: 2}
+  Mustache: {fileID: 1282214137762678, guid: c86711839f4f442e9b0b0db9ce6fa927, type: 2}
+  Knife: {fileID: 1452349668546702, guid: 2cbe5388dcdb048b7868843daa1026d0, type: 2}
+  ItemValue: 0
+  save: {fileID: 0}

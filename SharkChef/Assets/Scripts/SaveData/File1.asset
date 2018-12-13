@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63888ea0c2ade4b0b99d519d948664b6, type: 3}
+  m_Name: File1
+  m_EditorClassIdentifier: 
+  unlockSunglasses: 0
+  unlockMustache: 0
+  unlockKnife: 0
+  points: 2
